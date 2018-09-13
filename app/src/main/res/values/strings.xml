@@ -1,3 +1,4 @@
 <resources>
   <string name="app_name">Collapsing Toolbar</string>
+    <string name="subtitle">subtitle</string>
 </resources>
